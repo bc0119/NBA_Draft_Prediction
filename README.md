@@ -16,4 +16,4 @@ This project tests various machine learning models, including Logistic Regressio
 ## Conclusions
 After many tests, the best model is GradientBoosting from sklearn.ensemble. The best model reached 77% accuracy scores on testing data.
 
-![final_model.png](final_model.png) 
+![final_model.png](/Users/brianchoi/Documents/Data_Science/Projects/NBA_Draft_Prediction/final_model.png) 
